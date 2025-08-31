@@ -1,0 +1,5 @@
+{
+  "name": "Minexcraft Image Styler",
+  "description": "An AI-powered web application that allows users to upload an image, select and combine various artistic styles, and generate a unique, stylized version of their image using the Gemini API.",
+  "requestFramePermissions": []
+}
